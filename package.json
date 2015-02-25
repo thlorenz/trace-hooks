@@ -1,0 +1,19 @@
+{
+  "name": "trace_hooks",
+  "version": "0.0.0",
+  "description": "trace_hooks node addon",
+  "main": "trace-hooks.js",
+  "repository": {},
+  "homepage": "",
+  "dependencies": {
+    "nad-bindings": "~0.2.0",
+    "nan": "^1.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": {},
+  "license": {},
+  "engine": {
+    "node": ">=0.10"
+  }
+}
